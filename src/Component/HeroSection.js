@@ -24,7 +24,7 @@ const HeroSection = () => {
                                     </h1>
 
                                     <div className="hero-image-box d-md-none text-center wow fadeInRight" data-wow-delay="1.3s">
-                                        <img src="assets/img/hero/me.png" alt="" />
+                                        <img src="assets/img/hero/miral.jpg" alt="" />
                                     </div>
 
                                     <p className="lead wow fadeInLeft" data-wow-delay="1.4s">
