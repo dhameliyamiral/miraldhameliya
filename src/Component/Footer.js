@@ -25,12 +25,9 @@ const Footer = () => {
                   </ul>
                 </nav> */}
                  <ul>
-                    <li><Link to="/#services-section">Services</Link></li>
-                    <li><Link to="/#works-section">Works</Link></li>
-                    <li><Link to="/#resume-section">Resume</Link></li>
-                    <li><Link to="/#skills-section">Skills</Link></li>
-                    <li><Link to="/#testimonials-section">Testimonials</Link></li>
-                    <li><Link to="/#contact-section">Contact</Link></li>
+                 <li><Link to="resume">Resume</Link></li>
+                                        <li><Link to="skills">skills</Link></li>
+                                        <li><Link to="contact">Contact</Link></li>
                   </ul>
               </div>
               <div className="copy-text">
