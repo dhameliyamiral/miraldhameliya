@@ -34,7 +34,11 @@ const HeroSection = () => {
                                     <div className="button-box d-flex flex-wrap align-items-center">
                                         <a href="assets/MIRALDHAMELIYA.pdf" className="btn tj-btn-secondary wow fadeInLeft" data-wow-delay="1.5s" download>Download CV</a>
                                         <ul className="ul-reset social-icons wow fadeInLeft" data-wow-delay="1.6s">
-                                            <li><FaWhatsapp /></li>
+                                            <li>
+                                                <a href="https://wa.me/9978420331" target="_blank" rel="noopener noreferrer">
+                                                    <FaWhatsapp style={{ fontSize: '24px' }} />
+                                                </a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
